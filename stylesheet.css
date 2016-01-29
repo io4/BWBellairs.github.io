@@ -3,6 +3,9 @@ body {
    background-repeat: no-repeat;
    background-attachment: fixed;
    background-position: center;
+   
+   border-left: thick double #ff0000;
+   border-right: thick double #ff0000;
 }
 
 ﻿p {
