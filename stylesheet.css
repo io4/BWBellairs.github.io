@@ -4,8 +4,8 @@ body {
    background-attachment: fixed;
    background-position: center;
    
-   border-left: thick double #ff0000;
-   border-right: thick double #ff0000;
+   border-left: thick solid #ff0000;
+   border-right: thick solid #ff0000;
    
    text-decoration: none;
    
