@@ -12,6 +12,18 @@ body {
    font-family: Verdana;
 }
 
+body a {
+   text-decoration: none;
+   color: white;
+   background-color: black;
+}
+body a:hover {
+   color: orange;
+}
+body a:visited {
+   color: blue;
+}
+
 ﻿p {
    color: blue;
 }
