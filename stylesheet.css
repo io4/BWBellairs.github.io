@@ -7,6 +7,10 @@ body {
    
    border-left: thick double #ff0000;
    border-right: thick double #ff0000;
+   
+   text-decoration: none;
+   
+   font-family: Verdana;
 }
 
 ﻿p {
