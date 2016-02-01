@@ -16,14 +16,15 @@ body {
 }
 
 body a {
+   text-decoration: none;
    color: white;
    background-color: black;
 }
 body a:hover {
-   background-color: orange;
+   color: orange;
 }
 body a:visited {
-   background-color: red;
+   color: red;
 }
 
 ﻿p {
