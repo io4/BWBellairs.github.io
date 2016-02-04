@@ -1,6 +1,3 @@
-var a = 0
-
-for (iterator = 0; iterator <= 50; iterator++){
-  a++;
-  document.getElementById("test").style.width = a;
+for (var i = 0; i <= 50; i++){
+  document.getElementById("test").style.width = i;
 };
